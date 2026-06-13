@@ -23,7 +23,7 @@ A robust, lightweight Python network utility designed to scan a local subnet for
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/DNEkanayake/automated-network-scanner.git](https://github.com/YOUR_USERNAME/automated-network-scanner.git)
+   git clone [https://github.com/DNEkanayake/automated-network-scanner.git](https://github.com/DNEkanayake/automated-network-scanner.git)
    cd automated-network-scanner
 
   
